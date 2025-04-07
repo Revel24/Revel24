@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Revel24
+- 👋 Hi, I’m Edris
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on WhyAreYouEvenReadingThis
